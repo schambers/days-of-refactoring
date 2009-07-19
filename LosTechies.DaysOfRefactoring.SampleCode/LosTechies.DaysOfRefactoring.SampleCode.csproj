@@ -53,6 +53,14 @@
     <Compile Include="Day3_PullUpMethod\Vehicle_Before.cs" />
     <Compile Include="Day4_PushDownMethod\Animal_Before.cs" />
     <Compile Include="Day4_PushDownMethod\Animal_After.cs" />
+    <Compile Include="Day5_PullUpField\BankAccount_After.cs" />
+    <Compile Include="Day5_PullUpField\BankAccount_Before.cs" />
+    <Compile Include="Day6_PushDownField\Task_After.cs" />
+    <Compile Include="Day6_PushDownField\Task_Before.cs" />
+    <Compile Include="Day7_Rename\Person_After.cs" />
+    <Compile Include="Day7_Rename\Person_Before.cs" />
+    <Compile Include="Day8_ReplaceInheritance\Child_Before.cs" />
+    <Compile Include="Day8_ReplaceInheritance\Child_After.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
