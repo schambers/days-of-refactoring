@@ -45,6 +45,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Day10_ExtractMethod\Receipt_After.cs" />
+    <Compile Include="Day10_ExtractMethod\Receipt_Before.cs" />
+    <Compile Include="Day11_SwitchToStrategy\ShippingInfo_After.cs" />
+    <Compile Include="Day11_SwitchToStrategy\ShippingInfo_Before.cs" />
+    <Compile Include="Day12_BreakDependencies\AnimalFeedingService_Before.cs" />
+    <Compile Include="Day12_BreakDependencies\AnimalFeedingService_After.cs" />
+    <Compile Include="Day13_ExtractMethodObject\Order_After.cs" />
+    <Compile Include="Day13_ExtractMethodObject\Order_Before.cs" />
+    <Compile Include="Day14_BreakResponsibilities\Video_After.cs" />
+    <Compile Include="Day14_BreakResponsibilities\Video_Before.cs" />
+    <Compile Include="Day15_RemoveDuplication\MedicalRecord_Before.cs" />
+    <Compile Include="Day15_RemoveDuplication\MedicalRecord_After.cs" />
+    <Compile Include="Day16_EncapsulateConditional\RemoteControl_After.cs" />
+    <Compile Include="Day16_EncapsulateConditional\RemoteControl_Before.cs" />
     <Compile Include="Day1_EncapsulateCollection\Order_After.cs" />
     <Compile Include="Day1_EncapsulateCollection\Order_Before.cs" />
     <Compile Include="Day2_MoveMethod\BankAccount_After.cs" />
@@ -61,6 +75,8 @@
     <Compile Include="Day7_Rename\Person_Before.cs" />
     <Compile Include="Day8_ReplaceInheritance\Child_Before.cs" />
     <Compile Include="Day8_ReplaceInheritance\Child_After.cs" />
+    <Compile Include="Day9_ExtractInterface\ClassRegistration_After.cs" />
+    <Compile Include="Day9_ExtractInterface\ClassRegistration_Before.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

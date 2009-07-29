@@ -32,6 +32,6 @@ namespace LosTechies.DaysOfRefactoring.EncapsulateCollection.After
 
 	public class OrderLine
 	{
-		public double Total { get; }
+		public double Total { get; private set; }
 	}
 }
