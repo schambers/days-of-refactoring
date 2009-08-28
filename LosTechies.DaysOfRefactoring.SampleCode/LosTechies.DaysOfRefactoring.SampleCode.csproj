@@ -91,6 +91,8 @@
     <Compile Include="Day2_MoveMethod\BankAccount_Before.cs" />
     <Compile Include="Day30_ReturnASAP\Order_After.cs" />
     <Compile Include="Day30_ReturnASAP\Order_Before.cs" />
+    <Compile Include="Day31_ReplaceWithPolymorphism\OrderProcessor_After.cs" />
+    <Compile Include="Day31_ReplaceWithPolymorphism\OrderProcessor_Before.cs" />
     <Compile Include="Day3_PullUpMethod\Vehicle_After.cs" />
     <Compile Include="Day3_PullUpMethod\Vehicle_Before.cs" />
     <Compile Include="Day4_PushDownMethod\Animal_Before.cs" />
